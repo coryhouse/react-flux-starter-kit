@@ -3,6 +3,7 @@ This contains the completed environment setup that we walk through in detail in 
 
 To get started:
 - Install [NodeJS](http://www.nodejs.org)
-- Open the contents of this repository on the command line
+- Open the command line of your choice
+- cd to the root directory of this repo on your machine
 - `npm install` - Installs the necessary packages
 - `gulp` - Builds the project and opens your browser
