@@ -1,8 +1,10 @@
-# Browserify Gulp Starter Kit
+# React with Flux Starter Kit
 This contains the completed environment setup that we walk through in detail in module 2 of ["Building Applications with React and Flux" on Pluralsight](http://www.pluralsight.com/author/cory-house).
 
 This starter kit gives you the following out of the box:
-- Browserify bundling
+- React, React Router, and Flux for ultra-responsive UI development  
+- Browserify bundling  
+- jQuery with Bootstrap for styling  
 - Gulp build that:  
 -- compiles JSX  
 -- lints JS via ESLint  
@@ -11,8 +13,6 @@ This starter kit gives you the following out of the box:
 -- reloads the browser upon save  
 -- runs a dev webserver  
 -- automatically opens the browser at your dev URL
-- jQuery with Bootstrap for styling
-- React, React Router, and Flux for ultra-responsive UI development
 
 To get started:  
 1. Install [NodeJS](http://www.nodejs.org)  
