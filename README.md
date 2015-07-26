@@ -1,7 +1,7 @@
 # React with Flux Starter Kit
 This contains the completed environment setup that we walk through in detail in module 2 of ["Building Applications with React and Flux" on Pluralsight](http://www.pluralsight.com/author/cory-house).
 
-This starter kit gives you the following out of the box:
+##This starter kit gives you the following out of the box:
 - React, React Router, and Flux for ultra-responsive UI development  
 - Browserify bundling  
 - jQuery with Bootstrap for styling  
@@ -14,7 +14,7 @@ This starter kit gives you the following out of the box:
 -- runs a dev webserver  
 -- automatically opens the browser at your dev URL
 
-To get started:  
+##To get started:  
 1. Install [NodeJS](http://www.nodejs.org)  
 2. Download this repo and cd to the root directory of this repo on your machine  
 3. Open the command line of your choice  
