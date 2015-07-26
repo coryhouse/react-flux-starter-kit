@@ -19,6 +19,7 @@ This contains the completed environment setup that we walk through in detail in 
 2. Download this repo and cd to the root directory of this repo on your machine  
 3. Open the command line of your choice  
 4. `npm install` - Installs the necessary packages  
-5. `gulp` - Builds the project and opens your browser. Navigate to http://localhost:9005/ if your browser doesn't open automatically.
+5. `gulp` - Builds the project and opens your browser. 
+6. Navigate to [http://localhost:9005/](http://localhost:9005/) if your browser doesn't open automatically.
 
 You're now all set to [follow along with the course](http://www.pluralsight.com/author/cory-house)! 
