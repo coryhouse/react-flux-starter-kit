@@ -7,7 +7,7 @@ This starter kit gives you the following out of the box:
 - jQuery with Bootstrap for styling  
 - Gulp build that:  
 -- compiles JSX  
--- lints JS via ESLint  
+-- lints JSX and JS via ESLint  
 -- bundles JS and CSS files  
 -- migrates the built app to the dist folder  
 -- reloads the browser upon save  
