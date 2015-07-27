@@ -12,7 +12,7 @@ This contains the completed environment setup that we walk through in detail in 
 -- migrates the built app to the dist folder  
 -- reloads the browser upon save  
 -- runs a dev webserver  
--- automatically opens the browser at your dev URL
+-- Opens your browser at the dev URL
 
 ##To get started:  
 1. Install [NodeJS](http://www.nodejs.org)  
