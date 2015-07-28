@@ -1,7 +1,7 @@
 # React with Flux Starter Kit
 This contains the completed environment setup that we walk through in detail in module 2 of ["Building Applications with React and Flux" on Pluralsight](http://www.pluralsight.com/author/cory-house).
 
-##This starter kit gives you the following out of the box:
+##This starter kit gives you the following:
 - React, React Router, and Flux for ultra-responsive UI development  
 - Browserify bundling  
 - jQuery with Bootstrap for styling  
