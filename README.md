@@ -10,9 +10,9 @@ This contains the completed environment setup that we walk through in detail in 
 -- lints JSX and JS via ESLint  
 -- bundles JS and CSS files  
 -- migrates the built app to the dist folder  
--- reloads the browser upon save  
 -- runs a dev webserver  
--- Opens your browser at the dev URL
+-- opens your browser at the dev URL
+-- reloads the browser upon save  
 
 ##To get started:  
 1. Install [NodeJS](http://www.nodejs.org)  
