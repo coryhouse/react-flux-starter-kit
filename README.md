@@ -11,7 +11,7 @@ This contains the completed environment setup that we walk through in detail in 
 -- bundles JS and CSS files  
 -- migrates the built app to the dist folder  
 -- runs a dev webserver  
--- opens your browser at the dev URL
+-- opens your browser at the dev URL  
 -- reloads the browser upon save  
 
 ##To get started:  
