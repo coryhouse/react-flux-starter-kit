@@ -28,4 +28,4 @@ You're now all set to [follow along with the course](http://www.pluralsight.com/
 
 ##Change Log
 * Aug 20, 2015 - Updated to use gulp-open 1.0.0 and browserify 11.0.1 since the course has been updated to use these versions.  
-* Jan 23, 2015 - Fixed missing quotes around jQuery globals in .eslintrc.
+* Jan 23, 2016 - Fixed missing quotes around jQuery globals in .eslintrc.
