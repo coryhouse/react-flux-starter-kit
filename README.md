@@ -25,6 +25,8 @@ This contains the completed environment setup that we walk through in detail in 
 
 You're now all set to [follow along with the course](http://www.pluralsight.com/author/cory-house)! 
 
+##Having Issues? Try this:
+1. If you have an .eslintrc file in your user directory, delete it.
 
 ##Change Log
 * Aug 20, 2015 - Updated to use gulp-open 1.0.0 and browserify 11.0.1 since the course has been updated to use these versions.  
