@@ -1,6 +1,9 @@
 # React with Flux Starter Kit
 This contains the completed environment setup that we walk through in detail in module 2 of ["Building Applications with React and Flux" on Pluralsight](http://www.pluralsight.com/author/cory-house).
 
+**NOTE:** For the final demo built in the course, [go here](https://github.com/coryhouse/react-flux-building-applications). 
+And [here's an updated demo](https://github.com/coryhouse/react-flux-building-applications/tree/update) that uses the latest versions as of early 2017.
+
 ##This starter kit gives you the following:
 - React, React Router, and Flux for ultra-responsive UI development  
 - Browserify bundling  
@@ -31,3 +34,4 @@ You're now all set to [follow along with the course](http://www.pluralsight.com/
 ##Change Log
 * Aug 20, 2015 - Updated to use gulp-open 1.0.0 and browserify 11.0.1 since the course has been updated to use these versions.  
 * Jan 23, 2016 - Fixed missing quotes around jQuery globals in .eslintrc.
+* Jan 12, 2017 - Added link to completed demo and updated demo that uses latest versions as of early 2017.
