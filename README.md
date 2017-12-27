@@ -11,13 +11,13 @@ And [here's an updated demo](https://github.com/coryhouse/react-flux-building-ap
 - Browserify bundling  
 - jQuery with Bootstrap for styling  
 - Gulp build that:  
--- compiles JSX  
--- lints JSX and JS via ESLint  
--- bundles JS and CSS files  
--- migrates the built app to the dist folder  
--- runs a dev webserver  
--- opens your browser at the dev URL  
--- reloads the browser upon save  
+  - compiles JSX  
+  - lints JSX and JS via ESLint  
+  - bundles JS and CSS files  
+  - migrates the built app to the dist folder  
+  - runs a dev webserver  
+  - opens your browser at the dev URL  
+  - reloads the browser upon save  
 
 ## To get started: 
 
