@@ -17,8 +17,8 @@
     "no-alert": 0,
     "no-lone-blocks": 0
   },
-  "globals": {
-    "jQuery": true,
-    "$": true
-  }
+  "globals": [
+    "jQuery",
+    "$"
+  ]
 }
