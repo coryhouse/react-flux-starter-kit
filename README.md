@@ -1,4 +1,4 @@
-# React with Flux Starter Kit
+# ARCHIVED: React with Flux Starter Kit
 
 [Building Applications with React and Flux](https://app.pluralsight.com/library/courses/react-flux-building-applications/table-of-contents) on Pluralsight has been updated to use create-react-app. So this repo is no longer relevant. So this repo is now marked archived for historical purposes.
 
