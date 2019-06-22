@@ -1,9 +1,6 @@
 # React with Flux Starter Kit
 
-This contains the completed environment setup that we walk through in detail in module 2 of ["Building Applications with React and Flux" on Pluralsight](http://www.pluralsight.com/author/cory-house).
-
-**NOTE:** For the final demo built in the course, [go here](https://github.com/coryhouse/react-flux-building-applications). 
-And [here's an updated demo](https://github.com/coryhouse/react-flux-building-applications/pull/1) that uses the latest versions.
+[Building Applications with React and Flux](https://app.pluralsight.com/library/courses/react-flux-building-applications/table-of-contents) on Pluralsight has been updated to use create-react-app. So this repo is no longer relevant. So this repo is now marked archived for historical purposes.
 
 ## This starter kit gives you the following:
 
